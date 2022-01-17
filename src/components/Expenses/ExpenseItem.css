@@ -32,7 +32,7 @@
   background-color: #40005d;
   border: 1px solid white;
   padding: 0.5rem;
-  border-radius: 12px;
+  border-radius: 4px;
 }
 
 @media (min-width: 580px) {
